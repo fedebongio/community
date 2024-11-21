@@ -17,6 +17,7 @@ sigs:
     - github: fedebongio
       name: Federico Bongiovanni
       company: Google
+      email: fbongiovanni@google.com
     tech_leads:
     - github: deads2k
       name: David Eads
